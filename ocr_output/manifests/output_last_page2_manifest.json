@@ -1,0 +1,14 @@
+{
+  "doc_id": "output_last_page2_34427dc24b",
+  "file_name": "output_last_page2.pdf",
+  "file_sha256": "34427dc24bbdd4cee85ddc9fe06c2a06a967756c90de65f385a86408d9f16b34",
+  "page_count": 1,
+  "dpi": 500,
+  "batch_size": 1,
+  "chunks_count": 4,
+  "outputs": {
+    "raw_pages_json": "ocr_output/raw_pages_json/output_last_page2_pages.json",
+    "chunks_jsonl": "ocr_output/chunks_jsonl/output_last_page2.jsonl",
+    "images_dir": "ocr_output/images/output_last_page2"
+  }
+}

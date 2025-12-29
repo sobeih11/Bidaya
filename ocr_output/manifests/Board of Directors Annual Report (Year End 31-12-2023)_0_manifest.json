@@ -1,0 +1,14 @@
+{
+  "doc_id": "Board of Directors Annual Report (Year End 31-12-2023)_0_3262a0ad5a",
+  "file_name": "Board of Directors Annual Report (Year End 31-12-2023)_0.pdf",
+  "file_sha256": "3262a0ad5ad251b8d005ff1fa49562543799c63fecee62372617138b45665fde",
+  "page_count": 36,
+  "dpi": 500,
+  "batch_size": 1,
+  "chunks_count": 107,
+  "outputs": {
+    "raw_pages_json": "ocr_output/raw_pages_json/Board of Directors Annual Report (Year End 31-12-2023)_0_pages.json",
+    "chunks_jsonl": "ocr_output/chunks_jsonl/Board of Directors Annual Report (Year End 31-12-2023)_0.jsonl",
+    "images_dir": "ocr_output/images/Board of Directors Annual Report (Year End 31-12-2023)_0"
+  }
+}

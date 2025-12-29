@@ -629,7 +629,7 @@ def main():
     parser = GenericVisionOCRParser(
         output_dir="ocr_output",
         batch_size=1,     # demo: أعلى دقة
-        dpi=300,          # demo
+        dpi=500,          # demo
         max_text_chunk_chars=1800,
         overlap_chars=150,
     )

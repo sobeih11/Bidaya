@@ -1,0 +1,204 @@
+2025-12-29 06:14:42,130 - INFO - Initialized with model: gpt-4o-mini, dpi=300, batch_size=1
+2025-12-29 06:14:42,131 - INFO - 
+--- Document 1/1: Board of Directors Annual Report (Year End 31-12-2023)_0.pdf ---
+2025-12-29 06:14:42,251 - INFO - Processing pages 1-1 / 36
+2025-12-29 06:14:55,869 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:14:55,967 - INFO - Processing pages 2-2 / 36
+2025-12-29 06:15:08,042 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:15:08,053 - INFO - Processing pages 3-3 / 36
+2025-12-29 06:15:22,864 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:15:22,868 - INFO - Processing pages 4-4 / 36
+2025-12-29 06:15:41,057 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:15:41,060 - INFO - Processing pages 5-5 / 36
+2025-12-29 06:15:53,424 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:15:53,435 - INFO - Processing pages 6-6 / 36
+2025-12-29 06:16:16,417 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:16:16,422 - INFO - Processing pages 7-7 / 36
+2025-12-29 06:16:31,211 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:16:31,216 - INFO - Processing pages 8-8 / 36
+2025-12-29 06:16:50,655 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:16:50,665 - INFO - Processing pages 9-9 / 36
+2025-12-29 06:17:07,160 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:17:07,166 - INFO - Processing pages 10-10 / 36
+2025-12-29 06:17:22,478 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:17:22,486 - INFO - Processing pages 11-11 / 36
+2025-12-29 06:17:33,746 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:17:33,750 - INFO - Processing pages 12-12 / 36
+2025-12-29 06:17:52,063 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:17:52,071 - ERROR - Failed to parse JSON from model for pages [12]: Expecting ',' delimiter: line 84 column 53 (char 2343)
+2025-12-29 06:17:52,075 - INFO - Processing pages 13-13 / 36
+2025-12-29 06:18:03,102 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:18:03,104 - INFO - Processing pages 14-14 / 36
+2025-12-29 06:18:14,153 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:18:14,159 - INFO - Processing pages 15-15 / 36
+2025-12-29 06:18:28,860 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:18:28,862 - ERROR - Failed to parse JSON from model for pages [15]: Expecting ',' delimiter: line 29 column 44 (char 845)
+2025-12-29 06:18:28,865 - INFO - Processing pages 16-16 / 36
+2025-12-29 06:18:44,694 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:18:44,699 - INFO - Processing pages 17-17 / 36
+2025-12-29 06:18:59,825 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:18:59,829 - INFO - Processing pages 18-18 / 36
+2025-12-29 06:19:10,348 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:19:10,355 - INFO - Processing pages 19-19 / 36
+2025-12-29 06:19:24,302 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:19:24,305 - INFO - Processing pages 20-20 / 36
+2025-12-29 06:19:36,156 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:19:36,160 - INFO - Processing pages 21-21 / 36
+2025-12-29 06:19:51,656 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:19:51,664 - INFO - Processing pages 22-22 / 36
+2025-12-29 06:20:04,732 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:20:04,738 - INFO - Processing pages 23-23 / 36
+2025-12-29 06:20:19,766 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:20:19,768 - ERROR - Failed to parse JSON from model for pages [23]: Expecting property name enclosed in double quotes: line 14 column 9 (char 308)
+2025-12-29 06:20:19,772 - INFO - Processing pages 24-24 / 36
+2025-12-29 06:20:36,710 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:20:36,714 - INFO - Processing pages 25-25 / 36
+2025-12-29 06:20:47,107 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:20:47,112 - INFO - Processing pages 26-26 / 36
+2025-12-29 06:20:58,681 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:20:58,682 - ERROR - Failed to parse JSON from model for pages [26]: Expecting property name enclosed in double quotes: line 14 column 9 (char 716)
+2025-12-29 06:20:58,685 - INFO - Processing pages 27-27 / 36
+2025-12-29 06:21:13,440 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:21:13,453 - INFO - Processing pages 28-28 / 36
+2025-12-29 06:21:28,021 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:21:28,025 - INFO - Processing pages 29-29 / 36
+2025-12-29 06:21:55,503 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:21:55,507 - INFO - Processing pages 30-30 / 36
+2025-12-29 06:22:11,373 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:22:11,378 - INFO - Processing pages 31-31 / 36
+2025-12-29 06:22:29,199 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:22:29,203 - INFO - Processing pages 32-32 / 36
+2025-12-29 06:22:42,875 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:22:42,878 - INFO - Processing pages 33-33 / 36
+2025-12-29 06:22:53,842 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:22:53,854 - INFO - Processing pages 34-34 / 36
+2025-12-29 06:23:07,776 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:23:07,781 - INFO - Processing pages 35-35 / 36
+2025-12-29 06:23:19,898 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:23:19,903 - INFO - Processing pages 36-36 / 36
+2025-12-29 06:23:34,184 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 06:23:34,322 - INFO - ✅ Done: Board of Directors Annual Report (Year End 31-12-2023)_0.pdf -> chunks: 62
+2025-12-29 08:40:55,696 - INFO - Initialized with model: gpt-4o-mini-vision, dpi=300, batch_size=1
+2025-12-29 08:40:55,698 - INFO - 
+--- Document 1/1: output_last_page.pdf ---
+2025-12-29 08:40:55,719 - INFO - Processing pages 1-1 / 1
+2025-12-29 08:41:02,745 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-12-29 08:41:02,750 - WARNING - API call failed attempt 1/5: Error code: 400 - {'error': {'message': "The requested model 'gpt-4o-mini-vision' does not exist.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}
+2025-12-29 08:41:09,911 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-12-29 08:41:09,911 - WARNING - API call failed attempt 2/5: Error code: 400 - {'error': {'message': "The requested model 'gpt-4o-mini-vision' does not exist.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}
+2025-12-29 08:41:18,935 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-12-29 08:41:18,937 - WARNING - API call failed attempt 3/5: Error code: 400 - {'error': {'message': "The requested model 'gpt-4o-mini-vision' does not exist.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}
+2025-12-29 08:41:31,883 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-12-29 08:41:31,883 - WARNING - API call failed attempt 4/5: Error code: 400 - {'error': {'message': "The requested model 'gpt-4o-mini-vision' does not exist.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}
+2025-12-29 08:41:52,684 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-12-29 08:41:52,684 - WARNING - API call failed attempt 5/5: Error code: 400 - {'error': {'message': "The requested model 'gpt-4o-mini-vision' does not exist.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}
+2025-12-29 08:41:52,684 - ERROR - Max retries reached.
+2025-12-29 08:41:52,685 - ERROR - Failed to parse JSON from model for pages [1]: Expecting value: line 1 column 1 (char 0)
+2025-12-29 08:41:52,690 - INFO - ✅ Done: output_last_page.pdf -> chunks: 0
+2025-12-29 08:42:27,869 - INFO - Initialized with model: gpt-4.1-mini, dpi=300, batch_size=1
+2025-12-29 08:42:27,870 - INFO - 
+--- Document 1/1: output_last_page.pdf ---
+2025-12-29 08:42:27,875 - INFO - Processing pages 1-1 / 1
+2025-12-29 08:42:49,701 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 08:42:49,781 - INFO - ✅ Done: output_last_page.pdf -> chunks: 3
+2025-12-29 08:49:26,668 - INFO - Initialized with model: gpt-4.1-mini, dpi=500, batch_size=1
+2025-12-29 08:49:26,671 - INFO - 
+--- Document 1/1: output_last_page2.pdf ---
+2025-12-29 08:49:26,675 - INFO - Processing pages 1-1 / 1
+2025-12-29 08:50:01,991 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 08:50:02,065 - INFO - ✅ Done: output_last_page2.pdf -> chunks: 4
+2025-12-29 09:10:33,223 - INFO - Initialized with model: gpt-4.1-mini, dpi=700, batch_size=1
+2025-12-29 09:10:33,223 - INFO - 
+--- Document 1/1: output_last_page700.pdf ---
+2025-12-29 09:10:33,227 - INFO - Processing pages 1-1 / 1
+2025-12-29 09:11:28,176 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:11:28,249 - INFO - ✅ Done: output_last_page700.pdf -> chunks: 3
+2025-12-29 09:32:40,001 - INFO - Initialized with model: gpt-4.1, dpi=500, batch_size=1
+2025-12-29 09:32:40,003 - INFO - 
+--- Document 1/1: output_last_page700.pdf ---
+2025-12-29 09:32:40,008 - INFO - Processing pages 1-1 / 1
+2025-12-29 09:33:18,126 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:33:18,221 - INFO - ✅ Done: output_last_page700.pdf -> chunks: 1
+2025-12-29 09:35:34,959 - INFO - Initialized with model: gpt-4.1, dpi=300, batch_size=1
+2025-12-29 09:35:34,960 - INFO - 
+--- Document 1/1: output_last_page700.pdf ---
+2025-12-29 09:35:34,964 - INFO - Processing pages 1-1 / 1
+2025-12-29 09:36:00,720 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:36:00,821 - INFO - ✅ Done: output_last_page700.pdf -> chunks: 1
+2025-12-29 09:42:29,267 - INFO - Initialized with model: gpt-4.1-mini, dpi=500, batch_size=1
+2025-12-29 09:42:29,268 - INFO - 
+--- Document 1/1: Board of Directors Annual Report (Year End 31-12-2023)_0.pdf ---
+2025-12-29 09:42:29,297 - INFO - Processing pages 1-1 / 36
+2025-12-29 09:42:56,280 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:42:56,338 - INFO - Processing pages 2-2 / 36
+2025-12-29 09:43:13,052 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:43:13,058 - INFO - Processing pages 3-3 / 36
+2025-12-29 09:43:41,607 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:43:41,612 - INFO - Processing pages 4-4 / 36
+2025-12-29 09:44:27,117 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:44:27,128 - INFO - Processing pages 5-5 / 36
+2025-12-29 09:44:59,804 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:44:59,823 - INFO - Processing pages 6-6 / 36
+2025-12-29 09:45:32,166 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:45:32,215 - INFO - Processing pages 7-7 / 36
+2025-12-29 09:46:01,902 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:46:01,915 - INFO - Processing pages 8-8 / 36
+2025-12-29 09:46:27,707 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:46:27,715 - INFO - Processing pages 9-9 / 36
+2025-12-29 09:47:02,764 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:47:02,768 - INFO - Processing pages 10-10 / 36
+2025-12-29 09:47:33,296 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:47:33,333 - INFO - Processing pages 11-11 / 36
+2025-12-29 09:48:05,578 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:48:05,616 - INFO - Processing pages 12-12 / 36
+2025-12-29 09:48:30,893 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:48:30,895 - INFO - Processing pages 13-13 / 36
+2025-12-29 09:48:48,888 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:48:48,916 - INFO - Processing pages 14-14 / 36
+2025-12-29 09:49:24,631 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:49:24,636 - INFO - Processing pages 15-15 / 36
+2025-12-29 09:49:50,612 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:49:50,620 - INFO - Processing pages 16-16 / 36
+2025-12-29 09:50:13,212 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:50:13,219 - INFO - Processing pages 17-17 / 36
+2025-12-29 09:50:46,211 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:50:46,224 - INFO - Processing pages 18-18 / 36
+2025-12-29 09:51:11,457 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:51:11,464 - INFO - Processing pages 19-19 / 36
+2025-12-29 09:51:40,704 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:51:40,719 - INFO - Processing pages 20-20 / 36
+2025-12-29 09:52:13,136 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:52:13,146 - INFO - Processing pages 21-21 / 36
+2025-12-29 09:52:42,926 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:52:42,938 - INFO - Processing pages 22-22 / 36
+2025-12-29 09:53:13,240 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:53:13,254 - INFO - Processing pages 23-23 / 36
+2025-12-29 09:53:44,756 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:53:44,768 - INFO - Processing pages 24-24 / 36
+2025-12-29 09:54:17,306 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:54:17,319 - INFO - Processing pages 25-25 / 36
+2025-12-29 09:54:40,792 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:54:40,802 - INFO - Processing pages 26-26 / 36
+2025-12-29 09:55:08,553 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:55:08,562 - INFO - Processing pages 27-27 / 36
+2025-12-29 09:55:41,328 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:55:41,335 - INFO - Processing pages 28-28 / 36
+2025-12-29 09:56:18,691 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:56:18,720 - INFO - Processing pages 29-29 / 36
+2025-12-29 09:57:00,206 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:57:00,210 - ERROR - Failed to parse JSON from model for pages [29]: Expecting ',' delimiter: line 38 column 1306 (char 5048)
+2025-12-29 09:57:00,222 - INFO - Processing pages 30-30 / 36
+2025-12-29 09:57:28,482 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:57:28,519 - INFO - Processing pages 31-31 / 36
+2025-12-29 09:58:09,714 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:58:09,723 - INFO - Processing pages 32-32 / 36
+2025-12-29 09:58:39,189 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:58:39,195 - INFO - Processing pages 33-33 / 36
+2025-12-29 09:59:10,487 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:59:10,554 - INFO - Processing pages 34-34 / 36
+2025-12-29 09:59:39,924 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 09:59:39,942 - INFO - Processing pages 35-35 / 36
+2025-12-29 10:00:03,899 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 10:00:03,923 - INFO - Processing pages 36-36 / 36
+2025-12-29 10:00:39,740 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-12-29 10:00:39,823 - INFO - ✅ Done: Board of Directors Annual Report (Year End 31-12-2023)_0.pdf -> chunks: 107
